@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<WAWANCARA SENPAI AKU HARUS!>
 
 <html lang="en">
 
