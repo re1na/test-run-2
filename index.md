@@ -1,10 +1,9 @@
-<WAWANCARA SENPAI AKU HARUS!>
-
 <html lang="en">
-
+   
   <head>
-
-   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrGffJKzNrI5Tt1z1YyILPB_hLD8KwXbWbG356sG1eD2NIIU73yo5TWZvW-opwBXcMYZMLJAreVEP/pubhtml?widget=true&amp;headers=false"></iframe>  
+<WAWANCARA SENPAI AKU HARUS!>
+  
+   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrGffJKzNrI5Tt1z1YyILPB_hLD8KwXbWbG356sG1eD2NIIU73yo5TWZvW-opwBXcMYZMLJAreVEP/pubhtml?;headers=false"></iframe> 
 
     <script src="main.js"></script>
 
