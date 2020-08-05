@@ -1,37 +1,231 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/re1na/test-run-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="en">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <head>
 
-### Markdown
+    <meta charset="UTF-8" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-```markdown
-Syntax highlighted code block
+    <!-- displays site properly based on user's device -->
 
-# Header 1
-## Header 2
-### Header 3
+    <link
 
-- Bulleted
-- List
+      rel="icon"
 
-1. Numbered
-2. List
+      type="image/png"
 
-**Bold** and _Italic_ and `Code` text
+      sizes="32x32"
 
-[Link](url) and ![Image](src)
-```
+      href="./img/logos.png"
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    />
 
-### Jekyll Themes
+    <link rel="stylesheet" href="css/main.css">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/re1na/test-run-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <link href="https://fonts.googleapis.com/css?family=Bai+Jamjuree:400,600&display=swap" rel="stylesheet">
 
-### Support or Contact
+    <title>Please Edit Me</title>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <style>
+
+      .attribution {
+
+        font-size: 11px;
+
+        text-align: center;
+
+      }
+
+      .attribution a {
+
+        color: hsl(228, 45%, 44%);
+
+        text-decoration: none;
+
+        font-size: 11px;
+
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <!-- Start Banner -->
+
+    <header>
+
+      <div class="banner">
+
+        <img src="img/logo.svg" alt="" class="logo" />
+
+        <h1 id="header" class="banner-header"></h1>
+
+        <p id="header2" class="banner-paragraph">
+
+          
+
+        </p>
+
+        <div class="button-box">
+
+          <a href="#"><button class="ios-button">Copy-edit</button></a>
+
+          <a href="#"><button class="mac-button">Revise</button></a>
+
+        </div>
+
+      </div>
+
+    </header>
+
+
+
+    <!-- Start Section One: Keep track of your snippets -->
+
+    <section class="feature">
+
+      <div class="intro-text">
+
+        <h3 id="body"></h3>
+
+        <p id="body2">
+
+          
+
+        </p>
+
+      </div>
+
+      <div class="track-snippets">
+
+        <div class="snippet-left"><img src="img/image-computer.png" alt="computer" /></div>
+
+        <div class="snippet-right">
+
+          <div>
+
+            <h4 id="body3"></h4>
+
+            <p id="body4">
+
+            </p>
+
+          </div>
+
+          <div>
+
+            <h4 id="body5"></h4>
+
+            <p id="body6"></p>
+
+          </div>
+
+          <div>
+
+            <h4 id="body7"></h4>
+
+            <p id="body8">
+
+            </p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- Start Section Two: Access Clipboard anywhere -->
+
+    <section class="feature access-clipboard">
+
+      <div class="intro-text">
+
+        <h3 id="body9"></h3>
+
+        <p id="body10">
+
+         
+
+        </p>
+
+      </div>
+
+      <div>
+
+        <img src="img/image-devices.png" alt="devices" />
+
+      </div>
+
+    </section>
+
+
+
+    <!-- Start Section Three: Supercharge your workflow -->
+
+    <section class="feature supercharge-workflow">
+
+      <div class="intro-text">
+
+        <h3 id="body11"></h3>
+
+        <p id="body12"></p>
+
+      </div>
+
+      <div class="columns">
+
+        <div class="col create-blacklists">
+
+          <img src="img/icon-blacklist.svg" alt="" />
+
+          <h4 id="body13"></h4>
+
+          <p id="body14"> 
+
+          </p>
+
+        </div>
+
+        <div class="col plain-snippets">
+
+          <img src="img/icon-text.svg" alt="" />
+
+          <h4 id="body15"> </h4>
+
+          <p id="body16">
+
+            
+
+          </p>
+
+        </div>
+
+        <div class="col sneak-preview">
+
+          <img src="img/icon-preview.svg" alt="" />
+
+            <h4 id="body17"</h4>
+
+         
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <script src="main.js"></script>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+
+  </body>
+
+</html>
